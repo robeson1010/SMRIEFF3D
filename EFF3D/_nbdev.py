@@ -15,11 +15,13 @@ index = {"conv3x3x3": "00_res.ipynb",
          "resnet152": "00_res.ipynb",
          "resnet200": "00_res.ipynb",
          "open_npy": "01_MRI.ipynb",
-         "MriTensorImage": "01_MRI.ipynb"}
+         "MriTensorImage": "01_MRI.ipynb",
+         "MRIVisionTransformer": "02_vit.ipynb"}
 
 modules = ["core.py",
            "res.py",
-           "MRI.py"]
+           "MRI.py",
+           "vit.py"]
 
 doc_url = "https://robeson1010.github.io/EFF3D/"
 
